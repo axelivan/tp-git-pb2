@@ -60,15 +60,19 @@ case 1: resultado = a * b;
  
  switch(opcion){
  sumar(a,b);
+ 
 		break;
 	case 2:
+		
 		restar(a,b);
 		break;
 	case 3:		
+		
 		multiplicar(a,b);
 
 	break;
 	case 4:
+		
 		dividir(a,b);
 }
  
