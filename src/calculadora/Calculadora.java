@@ -26,7 +26,7 @@ public class Calculadora {
  
  
  switch(opcion){
-	case 1: resultado = a + b;
+	case 1: resultado = a * b;
 	
 	System.out.println("El resultado es " + resultado.toString());
 		break;
@@ -35,7 +35,7 @@ public class Calculadora {
 		System.out.println("El resultado es " + resultado.toString());
 		break;
 	case 3:		
-		resultado = a * b;
+		resultado = a + b;
 		System.out.println("El resultado es " + resultado.toString());
 	
 
