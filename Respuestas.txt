@@ -1,0 +1,11 @@
+5a) no ocurrio ningun error, ya que se modifico la ultima version
+b) agregar los cambios alrepositorio local y luego realizar
+ un commit, donde se especifique los cambios realizados
+c)verificar de tener la ultima version
+6
+te crea el branch develop, el comando git checkout es para cambiar de ramas,
+el comando git checkout -b develop te crea el branch develop
+ y te situa sobre el branch develop
+9) permite mergear dentro del repositorio remoto, solicitando el merge,
+y luego esta la opcion de confirmar el merge request
+
